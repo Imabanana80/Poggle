@@ -1,0 +1,11 @@
+name: poggle
+version: '1.0'
+main: com.imabanana80.poggle.Poggle
+api-version: '1.21'
+authors: [ Imabanana80 ]
+description: global pvp toggle without restart
+website: https://imabanana80.com/
+commands:
+  poggle:
+    description: toggle pvp globally, no restart required
+    permission: Poggle.Toggle
